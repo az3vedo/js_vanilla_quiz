@@ -92,6 +92,7 @@ body {
   border: 1px solid #cddde8;
   padding: 25px;
   border-radius: 25px;
+  align-items: center;
 }
 
 #question {
@@ -105,10 +106,10 @@ body {
 }
 
 #answers-box button {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   margin: 15px 0;
-  width: 300px;
+  width: 80%;
   height: 50px;
   border-radius: 25px;
   background-color: #cddde8;
