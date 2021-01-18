@@ -12,11 +12,11 @@ const questions = [
     "question": "PHP foi desenvolvido para qual fim?",
     "answers": [
       {
-        "answer": "back-end",
+        "answer": "Back-end",
         "correct": true
       },
       {
-        "answer": "front-end",
+        "answer": "Front-end",
         "correct": false
       },
       {
