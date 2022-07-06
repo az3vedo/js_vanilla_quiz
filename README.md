@@ -9,7 +9,7 @@ Demo: TBD
 ## Resumo do projeto
 O JS Vanilla Quiz é um protótipo de jogo no estilo Quiz, uma pergunta é feita e 4 alternativas são oferecidas para o participante escolher dentre elas a resposta correta. :ballot_box_with_check:
 
-<!-- Instruções de execução do projeto [aqui](./doc/exec_instructions.md) -->
+Instruções de execução do projeto [aqui](./doc/exec_instructions.md)
 
 <!-- ## Screenshots
   - Página Inicial
