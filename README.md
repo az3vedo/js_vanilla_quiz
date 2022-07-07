@@ -11,16 +11,15 @@ O JS Vanilla Quiz é um protótipo de jogo no estilo Quiz, uma pergunta é feita
 
 Instruções de execução do projeto [aqui](./doc/exec_instructions.md)
 
-<!-- ## Screenshots
-  - Página Inicial
-  ![Página Inicial](./doc/img/home_page.png)
+## Screenshots
+  - __Escolhendo uma alternativa__:
+  ![Selecionando alternativa](./doc/img/ans_select.png)
+  
+  - __Resposta correta__:
+  ![Resposta correta](./doc/img/ans_correct.png)
 
-  - Lista de vagas
-  ![Lista de vagas](./doc/img/lista_vagas.png)
+  - __Resposta errada__:
+  ![Resposta errada](./doc/img/ans_wrong.png)
 
-  - Adicionar vaga
-  ![Adicionar vaga](./doc/img/add_vaga.png)
-
-  - Visualizar vaga
-  ![Visualizar vaga](./doc/img/view_vaga.png)
--->
+  - __Finalizando o quiz com 100% de acerto__:
+  ![Quiz finalizado](./doc/img/quiz_finished.png)
