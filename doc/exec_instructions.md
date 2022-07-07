@@ -1,5 +1,5 @@
 # JS Vanilla Quiz
-
+[Voltar para a doc](../README.md)
 ## Requisitos
   Navegador web
 ## Execução 
